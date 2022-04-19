@@ -70,8 +70,6 @@ def st():
         
         
 def day():
-    print("Gc: ", int(gc))
-    print("Sc: ",int(sc))
 
     print("\nYou have just woken up time to go to school")
     print("\nTime to answer the question")
